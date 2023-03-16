@@ -1,0 +1,24 @@
+.container1{
+    display: flex;
+    justify-content: center;
+}
+
+#spam-img {
+    width: 400px;
+    height: auto;
+}
+
+h1,#recipe-title {
+    text-align: center;
+}
+
+#header,
+#ingredients,
+#directions {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#ingredients,
+#directions {
+    font-style: italic;
+}
