@@ -1,0 +1,25 @@
+.container1 {
+    display: flex;
+    justify-content: center;
+}
+
+#thai-curry-img {
+    width: auto;
+    height: 400px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body,
+#header,
+#ingredients,
+#directions {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#ingredients,
+#directions {
+    font-style: italic;
+}
